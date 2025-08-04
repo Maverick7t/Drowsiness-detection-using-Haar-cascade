@@ -237,9 +237,6 @@ Popular datasets:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## License
-
-This project currently has no specified license. Please check with the repository owner regarding usage permissions and licensing terms.
 
 ## Acknowledgments
 
