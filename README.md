@@ -1,4 +1,4 @@
-# Drowsiness Detection using Haar Cascade and Deep Learning
+# Drowsiness_Detection_using_Haar_Cascade_and_Deep_Learning
 
 A real-time drowsiness detection system that uses computer vision and deep learning to monitor driver alertness. The system detects when a person's eyes are closed for an extended period and triggers an audio alarm to prevent accidents caused by drowsy driving.
 
